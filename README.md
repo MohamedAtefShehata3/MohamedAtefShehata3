@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAtefShehata3&theme=darkhub&column=7&no-bg=true" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAtefShehata3&theme=onedark&column=7&no-bg=true" alt="trophies" />
 </p>
 
 ---
@@ -19,12 +19,12 @@
 ### 📂 Featured Project
 <table align="center" width="100%">
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedAtefShehata3&repo=Bakery-WebSite&theme=algolia&border_radius=10" alt="Bakery Project" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedAtefShehata3&repo=Bakery-WebSite&theme=dark&border_radius=10" alt="Bakery Project" />
     </td>
     <td width="50%" valign="top">
       <h4>🥐 Bakery WebSite</h4>
-      <p>A modern and responsive Bakery website built with high attention to UI/UX details. Showcasing frontend skills and interactive design.</p>
+      <p>A modern and responsive Bakery website built with high attention to UI/UX details.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -63,11 +63,7 @@
       <br>
       <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-      <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-      <br>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/Clean_Architecture-0058AD?style=for-the-badge&logo=architecture&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -77,12 +73,12 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedAtefShehata3&show_icons=true&theme=algolia&border_radius=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAtefShehata3&layout=compact&theme=algolia&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedAtefShehata3&show_icons=true&theme=dark&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAtefShehata3&layout=compact&theme=dark&border_radius=10" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAtefShehata3&theme=algolia&border_radius=10" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAtefShehata3&theme=dark&border_radius=10" />
 </p>
 
 ---
@@ -93,8 +89,4 @@
 <a href="https://www.linkedin.com/in/mohamed-atef-shehata-a18a6a384" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mohamedatefshehata3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/MohamedAtefShehata3" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
 </p>
