@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohamedAtefShehata3&label=PROFILE%20VIEWS&color=00d1ff&style=for-the-badge&logo=github" alt="Views" />
+</p>
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Mohamed Atef Shehata
