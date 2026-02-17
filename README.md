@@ -1,7 +1,3 @@
-<p align="center"><img width="100%" alt="Gemini_Generated_Image_t8e9pdt8e9pdt8e9" src="https://github.com/user-attachments/assets/695e31b4-68dd-4839-beb8-8bd0f4aed604" />
-
-  <img src="https://komarev.com/ghpvc/?username=MohamedAtefShehata3&label=PROFILE%20VIEWS&color=00d1ff&style=for-the-badge&logo=github" alt="Views" />
-</p>
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Mohamed Atef Shehata
