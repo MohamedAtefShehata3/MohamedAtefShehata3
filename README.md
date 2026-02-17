@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAtefShehata3&theme=tokyonight&column=7&no-bg=true" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAtefShehata3&theme=darkhub&column=7&no-bg=true" alt="trophies" />
 </p>
 
 ---
@@ -56,12 +56,12 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedAtefShehata3&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAtefShehata3&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedAtefShehata3&show_icons=true&theme=algolia&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAtefShehata3&layout=compact&theme=algolia&border_radius=10" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAtefShehata3&theme=tokyonight&border_radius=10&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAtefShehata3&theme=algolia&border_radius=10" />
 </p>
 
 ---
@@ -75,5 +75,5 @@
 </p>
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
 </p>
