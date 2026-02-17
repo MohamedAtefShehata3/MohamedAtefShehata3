@@ -16,6 +16,27 @@
 
 ---
 
+### 📂 Featured Project
+<table align="center" width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedAtefShehata3&repo=Bakery-WebSite&theme=algolia&border_radius=10" alt="Bakery Project" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🥐 Bakery WebSite</h4>
+      <p>A modern and responsive Bakery website built with high attention to UI/UX details. Showcasing frontend skills and interactive design.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <a href="https://github.com/MohamedAtefShehata3/Bakery-WebSite"><b>🔗 Explore Source Code</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🚀 My Superpowers (Tech Stack)
 
 <table align="center" width="100%">
@@ -66,7 +87,7 @@
 
 ---
 
-### 🤝 Let's Build Something Amazing!
+### 🤝 Let's Connect
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mohamed-atef-shehata-a18a6a384" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
