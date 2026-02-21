@@ -115,19 +115,19 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAtefShehata3&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mohamed Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAtefShehata3&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAtefShehata3&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAtefShehata3&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 ###
 
 <h3 align="left">📈 Contribution Activity</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAtefShehata3&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAtefShehata3&theme=dark&hide_border=true" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+<div align="right">
+  <img height="150" src="https://i.imgflip.com/65efzo.gif" />
+</div>
