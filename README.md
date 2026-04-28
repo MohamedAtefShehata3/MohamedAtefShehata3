@@ -1,20 +1,26 @@
+<h1 align="center">Hi 👋, I'm Mohamed Atef Shehata</h1>
+<h3 align="center">Software Engineer Full Stack Web Development (Angular - Asp.net C#)</h3>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=mohamedatefshehata3&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedatefshehata3" /> 
+</p>
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedatefshehata3" alt="mohamedatefshehata3" /></a> 
+</p>
+
+- 🔭 I’m currently working on [Bakery Website](https://bakery1-website.netlify.app/)
+- 🌱 I’m currently learning **Route - Full Stack Web Development**
+- 👯 I’m looking to collaborate on [Elite Home Website](https://elite-home-website.netlify.app/)
+- 💬 Ask me about **Angular - Asp.net (C#)**
+- 📫 How to reach me **mohamedatefshehata3@gmail.com**
+
 <br clear="both">
 
-<h2 align="left">Connect with me</h2>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mohamed-atef-shehata-a18a6a384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a><a href="https://stackoverflow.com/users/32674081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="32674081" height="30" width="40" /></a><a href="https://www.facebook.com/mohamed.atef.shehata.96818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a><a href="https://www.instagram.com/mohamedatef.shehata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a><a href="https://codeforces.com/profile/mohamedatefshehata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a><a href="https://www.leetcode.com/mohamed-atef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a><a href="https://www.topcoder.com/members/32511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="Topcoder" height="30" width="40" /></a>
+</p>
 
 ###
 
@@ -106,37 +112,10 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
-###
 
-<br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedAtefShehata3/MohamedAtefShehata3/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedAtefShehata3/MohamedAtefShehata3/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MohamedAtefShehata3/MohamedAtefShehata3/output/pacman-contribution-graph.svg">
-</picture>
 
-###
-
-<br clear="both">
-
-<div align="right">
-  <img src="https://github-profile-trophy.vercel.app?username=MohamedAtefShehata3&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MohamedAtefShehata3&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
 
 
 <!-- <h1 align="center">Hi 👋, I'm Mohamed Atef Shehata</h1>
