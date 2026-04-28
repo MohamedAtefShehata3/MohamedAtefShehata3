@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Atef Shehata</h1>
-<h3 align="center">Software Engineer Full Stack Web Development (Angular - Asp.net C#)</h3>
+<h2 align="left">About me</h2>
+
+###
+
+<br clear="both">
+
+<h1 align="center">Software Engineer Full Stack Web Development (Angular - Asp.net C#)</h1>
+
+###
 
 - 🔭 I’m currently working on [Bakery Website](https://bakery1-website.netlify.app/)
 - 🌱 I’m currently learning **Route - Full Stack Web Development**
