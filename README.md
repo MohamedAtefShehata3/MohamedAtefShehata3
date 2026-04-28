@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Atef Shehata</h1>
-<h2 align="left">About me</h2>
 
-###
-
-<br clear="both">
 
 <h2 align="center">Software Engineer <br>Full Stack Web Development <br>(Angular - Asp.net C#)</h2>
 
