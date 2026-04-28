@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Atef Shehata</h1>
 <h3 align="center">Software Engineer Full Stack Web Development (Angular - Asp.net C#)</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mohamedatefshehata3&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedatefshehata3" /> 
-</p>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedatefshehata3" alt="mohamedatefshehata3" /></a> 
-</p>
-
 - 🔭 I’m currently working on [Bakery Website](https://bakery1-website.netlify.app/)
 - 🌱 I’m currently learning **Route - Full Stack Web Development**
 - 👯 I’m looking to collaborate on [Elite Home Website](https://elite-home-website.netlify.app/)
